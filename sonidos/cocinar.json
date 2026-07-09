@@ -1,0 +1,7 @@
+[
+  {"url"bichos/bichos01.wav", "type":"audio","bank":"bichos","n:0},
+  {"url"interferencia/intereferencia01.wav", "type":"audio","bank":"interf","n:0}, 
+  {"url"metalico/metalico01.wav", "type":"audio","bank":"metal","n:0},
+  {"url"teclado/teclado01.wav", "type":"audio","bank":"tecla1","n:0},
+  {"url"bichos/teclado02.wav", "type":"audio","bank":"tecla2","n:1}
+]
